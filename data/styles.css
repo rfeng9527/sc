@@ -189,6 +189,10 @@
 }
 .line1 {
 }
+.flow_shape {
+}
+.line2 {
+}
 ._1-linecolor {
   font-size:12px;
   color:#333333;
@@ -230,12 +234,37 @@
 .radio_button {
   text-align:left;
 }
-.flow_shape {
+.flow_shape1 {
 }
 .link_button {
   color:#169BD5;
 }
+.heading_11 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.heading_2 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.heading_3 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
 .box_32 {
+}
+.box_21 {
+}
+.placeholder {
 }
 .checkbox {
   text-align:left;
@@ -271,5 +300,22 @@
   text-align:left;
 }
 .box_11 {
+}
+._正文 {
+  font-family:'Microsoft YaHei UI', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#657180;
+  text-align:left;
+}
+.tree_node {
+  text-align:left;
+}
+.label2 {
+  font-size:14px;
+  text-align:left;
+}
+.ellipse2 {
 }
 textarea, select, input, button { outline: none; }

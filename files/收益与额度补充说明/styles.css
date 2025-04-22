@@ -153,3 +153,43 @@
   word-wrap:break-word;
   text-transform:none;
 }
+#u4350_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:543px;
+  height:388px;
+  background:inherit;
+  background-color:rgba(0, 128, 128, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
+  box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
+  font-size:18px;
+  color:#FFFFFF;
+}
+#u4350 {
+  border-width:0px;
+  position:absolute;
+  left:930px;
+  top:646px;
+  width:543px;
+  height:388px;
+  display:flex;
+  font-size:18px;
+  color:#FFFFFF;
+}
+#u4350 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:10px 10px 10px 10px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u4350_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
